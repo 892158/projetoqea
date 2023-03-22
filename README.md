@@ -1,4 +1,6 @@
-<h1 align="center">❓ queston and answers ❗</h1>
+<img src="https://i.ibb.co/GRLXVB8/bannerqea.png">
+
+<h1 align="center">❓ question and answers ❗</h1>
 
 ⏩ Sobre o Projeto
 
