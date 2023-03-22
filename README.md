@@ -4,7 +4,7 @@
 
 ⏩ Sobre o Projeto
 
-Pergunta e Respostas | uma ferramenta simples, criado para que pessoas possam adicionar suas dúvidas e ser respondidas por outras pessoas que entendem do assunto!
+Perguntas e Respostas | uma ferramenta simples, criado para que pessoas possam adicionar suas dúvidas e ser respondidas por outras pessoas que entendem do assunto!
 
 🤖 Como funciona?
 
