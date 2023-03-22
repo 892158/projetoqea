@@ -2,7 +2,7 @@
 
 <h1 align="center">❓ question and answers ❗</h1>
 
-⏩ Sobre o Projeto
+## ⏩ Sobre o Projeto
 
 Perguntas e Respostas | uma ferramenta simples, criado para que pessoas possam adicionar suas dúvidas e ser respondidas por outras pessoas que entendem do assunto!
 
@@ -14,7 +14,7 @@ Perguntas e Respostas | uma ferramenta simples, criado para que pessoas possam a
   - Após adicionar a resposta, a pergunta pendente aparecerá como respondida em um campo com a pergunta e resposta
   
   
-🎨 Layout do Projeto
+## 🎨 Layout do Projeto
 
 ### Web
 
@@ -33,9 +33,9 @@ Os seguintes programas foram usadas na construção do projeto:
 - [XAMPP]
 - [mySQL Workbench 8.0 CE]
 
-🤸 Como Executar
+## 🤸 Como Executar
 
-##Antes de começar, você deverá ter instalado em sua maquina: Git, Visual Studio, XAMPP, mySQL
+Antes de começar, você deverá ter instalado em sua maquina: Git, Visual Studio, XAMPP, mySQL
 
 1. Fazer o download da pasta ZIP no GitHub 
 2. Extraia este arquivo em sua área de trabalho
