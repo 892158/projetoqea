@@ -27,7 +27,7 @@ Perguntas e Respostas | uma ferramenta simples, criado para que pessoas possam a
 
 ## 💻 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+Os seguintes programas foram usadas na construção do projeto:
 
 - [VisualStudio]
 - [XAMPP]
@@ -35,3 +35,29 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 🤸 Como Executar
 
+##Antes de começar, você deverá ter instalado em sua maquina: Git, Visual Studio, XAMPP, mySQL
+
+1. Fazer o download da pasta ZIP no GitHub 
+2. Extraia este arquivo em sua área de trabalho
+3. Abra o arquivo com o programa Visual Code
+4. Abra o terminal : crtl + shift + '
+5. Adicione os seguintes comandos: 
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/tgmarinho/nlw1
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd nlw1
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
+
+# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+```
