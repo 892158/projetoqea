@@ -35,11 +35,11 @@ Os seguintes programas foram usadas na construção do projeto:
 
 ## 🤸 Como Executar
 
-Antes de começar, você deverá ter instalado em sua maquina: Git, Visual Studio, XAMPP, mySQL
+Antes de começar, você deverá ter instalado em sua maquina: Git, Visual Studio Code, XAMPP, mySQL
 
 1. Fazer o download da pasta ZIP no GitHub 
 2. Extraia este arquivo em sua área de trabalho
-3. Abra o arquivo com o programa Visual Code
+3. Abra a pasta com Visual Code
 4. Abra o terminal : crtl + shift + '
 5. Adicione os seguintes comandos: 
 
