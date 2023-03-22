@@ -37,6 +37,8 @@ Os seguintes programas foram usadas na construção do projeto:
 
 Antes de começar, você deverá ter instalado em sua maquina: Git, Visual Studio Code, XAMPP, mySQL
 
+Inicie no XAMPP o servidor Apache e MySQL, configurando a porta como desejar.
+
 1. Fazer o download da pasta ZIP no GitHub 
 2. Extraia este arquivo em sua área de trabalho
 3. Abra a pasta com Visual Code
@@ -44,20 +46,13 @@ Antes de começar, você deverá ter instalado em sua maquina: Git, Visual Studi
 5. Adicione os seguintes comandos: 
 
 ```bash
-# Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1
+# Comandos no terminal 
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
-
-# Vá para a pasta server
-$ cd server
-
-# Instale as dependências
+# Instalando as dependências
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+# Execute a aplicação
+$ npm run dev
 
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+# O servidor inciará na porta que você escolher, a padrão seria:3333. Deste modo, para ver o site deve acesser http://localhost:3333 🙂
 ```
