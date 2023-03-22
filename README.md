@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/GRLXVB8/bannerqea.png">
+<img src="https://i.ibb.co/fFcDL22/bannerqea.png">
 
 <h1 align="center">❓ question and answers ❗</h1>
 
