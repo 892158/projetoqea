@@ -54,5 +54,7 @@ $ npm install
 # Execute a aplicação
 $ npm run dev
 
-# O servidor inciará na porta que você escolher, a padrão seria:3333. Deste modo, para ver o site deve acesser http://localhost:3333 🙂
+# O servidor iniciará na porta que você escolher, a padrão seria:3333
+
+Deste modo, para ver o site deve acesser http://localhost:3333 🙂
 ```
