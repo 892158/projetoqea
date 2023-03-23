@@ -22,7 +22,9 @@ Perguntas e Respostas | uma ferramenta simples, criado para que pessoas possam a
 
 ( imagem 2 - realizando uma pergunta)
 
-(imagem 3 - pergunta respondida)
+(imagem 3 - respondendo uma pergunta)
+
+(imagem 4 - tela de pergunta respondida)
 
 
 ## 💻 Tecnologias
