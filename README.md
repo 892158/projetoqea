@@ -45,7 +45,7 @@ Inicie no XAMPP o servidor Apache e MySQL, configurando a porta como desejar.
 2. Extraia este arquivo em sua área de trabalho
 3. Abra a pasta com Visual Code
 4. Abra o terminal : crtl + shift + '
-5. Adicione os seguintes comandos: 
+5. Adicione os comandos dentro do terminal 
 
 ```bash
 # Comandos no terminal 
