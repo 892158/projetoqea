@@ -61,4 +61,4 @@ $ npm run dev
 # Deste modo, para ver o site deverá acessar como: http://localhost:3333 🙂
 ```
 
-##Projeto desenvolvido em sala de aula, alunos Técnico em Informática SENAC Minas
+## 💬 Projeto desenvolvido em sala de aula, alunos Técnico em Informática SENAC Minas
