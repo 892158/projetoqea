@@ -58,7 +58,7 @@ $ npm run dev
 
 # O servidor iniciará na porta que você escolher, a porta padrão seria: 3333
 
-# Deste modo, para ver o site deverá acessar como: http://localhost:3333 🙂
+# Deste modo, para visualizar o site deve acessar em seu navegador http://localhost:3333 🙂
 ```
 
 📐 Projeto desenvolvido em sala de aula - Técnico em Informática SENAC Minas 2023
