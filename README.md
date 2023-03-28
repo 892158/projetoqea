@@ -67,13 +67,13 @@ Inicie no XAMPP o servidor Apache e MySQL, configurando a porta como desejar.
 
    "DB_NAME = "projeto"
 
-USER = "root"
+    USER = "root"
 
-PASSWORD = ""
+    PASSWORD = ""
 
-HOST = "localhost"
+    HOST = "localhost"
 
-PORT = "3306"
+    PORT = "3306"
 
 # Execute a aplicação
 $ npm run dev
