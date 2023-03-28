@@ -2,11 +2,11 @@
 
 <h1 align="center">question and answers</h1>
 
-<img src="https://i.ibb.co/w0pCnXH/question-resized.png">
-
 ## ⏩ Sobre o Projeto
 
 Perguntas e Respostas | uma ferramenta simples, criado para que pessoas possam adicionar suas dúvidas e ser respondidas por outras pessoas que entendem do assunto!
+
+<img src="https://i.ibb.co/w0pCnXH/question-resized.png">
 
 🤖 Como funciona?
 
