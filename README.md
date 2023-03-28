@@ -1,10 +1,12 @@
 <img src="https://i.ibb.co/fFcDL22/bannerqea.png">
 
-<h1 align="center">❓ question and answers ❗</h1>
+<h1 align="center">question and answers</h1>
 
 ## ⏩ Sobre o Projeto
 
 Perguntas e Respostas | uma ferramenta simples, criado para que pessoas possam adicionar suas dúvidas e ser respondidas por outras pessoas que entendem do assunto!
+
+<img src="https://i.ibb.co/wpgxckL/question.png">
 
 🤖 Como funciona?
 
