@@ -50,17 +50,37 @@ Inicie no XAMPP o servidor Apache e MySQL, configurando a porta como desejar.
 5. Adicione os comandos dentro do terminal 
 
 ```bash
-# Comandos no terminal 
+# Como executar o Projeto: 
 
-# Instalando as dependências
-$ npm install
+  - Clone o Projeto:
+
+  git clone + URL do projeto
+
+  - Entre no diretório do projeto:
+
+   cd projeto-pergunta-main
+
+  # Instalando as dependências
+  $ npm install
+
+   Configure o banco de dados:
+
+   "DB_NAME = "projeto"
+
+USER = "root"
+
+PASSWORD = ""
+
+HOST = "localhost"
+
+PORT = "3306"
 
 # Execute a aplicação
 $ npm run dev
 
-# O servidor iniciará na porta que você escolher, a porta padrão seria: 3333
 
-# Deste modo, para visualizar o site deve acessar em seu navegador http://localhost:3333 🙂
+# O servidor iniciará na porta que você escolher. Neste caso, a porta é: 3306
+# Deste modo, para visualizar o site deve acessar em seu navegador http://localhost:3306 🙂
 ```
 
 📐 Projeto desenvolvido em sala de aula - Técnico em Informática SENAC Minas 2023
