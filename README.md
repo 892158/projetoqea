@@ -81,7 +81,7 @@ Inicie no XAMPP o servidor Apache e MySQL, configurando a porta como desejar.
 
 # O servidor iniciará na porta que você escolher. Neste caso, a porta é: 3306
 
-# Deste modo, para visualizar o site deve acessar em seu navegador http://localhost:3306 🙂
+# Para visualizar o site deve acessar em seu navegador http://localhost:3306 🙂
 ```
 
 📐 Projeto desenvolvido em sala de aula - Técnico em Informática SENAC Minas 2023
