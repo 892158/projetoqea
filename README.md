@@ -35,7 +35,7 @@ Os seguintes programas foram usadas na construção do projeto:
 - [XAMPP]
 - [mySQL Workbench 8.0 CE]
 
-## 🤸 Como Executar
+## 🕹️ Como Executar
 
 Antes de começar, você deverá ter instalado em sua maquina: Git, Visual Studio Code, XAMPP, mySQL
 
