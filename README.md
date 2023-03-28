@@ -18,7 +18,7 @@ Perguntas e Respostas | uma ferramenta simples, criado para que pessoas possam a
   
 ## 🎨 Layout do Projeto
 
-### telas que compõe o site
+### telas que compõe o site:
 
 ( imagem 1 - tela inicial )
 
