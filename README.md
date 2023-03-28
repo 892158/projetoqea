@@ -6,7 +6,7 @@
 
 Perguntas e Respostas | uma ferramenta simples, criado para que pessoas possam adicionar suas dúvidas e ser respondidas por outras pessoas que entendem do assunto!
 
-<img src="https://i.ibb.co/wpgxckL/question.png">
+<img src="https://i.ibb.co/w0pCnXH/question-resized.png">
 
 🤖 Como funciona?
 
