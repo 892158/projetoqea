@@ -60,7 +60,7 @@ Inicie no XAMPP o servidor Apache e MySQL, configurando a porta como desejar.
 
    cd projeto-pergunta-main
 
-  # Instalando as dependências
+# Instalando as dependências
   $ npm install
 
    Configure o banco de dados:
@@ -75,7 +75,7 @@ Inicie no XAMPP o servidor Apache e MySQL, configurando a porta como desejar.
 
     PORT = "3306"
 
-  # Execute a aplicação
+# Execute a aplicação
   $ npm run dev
 
 
