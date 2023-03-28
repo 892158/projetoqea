@@ -18,15 +18,11 @@ Perguntas e Respostas | uma ferramenta simples, criado para que pessoas possam a
   
 ## 🎨 Layout do Projeto
 
-### Web
+### Web [ telas do site ]
 
 ( imagem 1 - tela inicial )
 
-<img src="https://i.ibb.co/hBh30WJ/image1.png">
-
 ( imagem 2 - realizando uma pergunta)
-
-<img src="https://i.ibb.co/2jXYLdD/image2.png">
 
 (imagem 3 - respondendo uma pergunta)
 
