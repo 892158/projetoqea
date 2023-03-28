@@ -12,8 +12,8 @@ Perguntas e Respostas | uma ferramenta simples, criado para que pessoas possam a
 
   - Adicione uma pergunta
   - Sua pergunta ficará pendente na lista
-  - Outra pessoa poderá adicionar uma resposta
-  - Após adicionar a resposta, a pergunta pendente aparecerá como respondida em um campo com a pergunta e resposta
+  - Outra pessoa poderá responder
+  - Quando isso acontecer, a pergunta aparecerá como respondida e abaixo a resposta que foi enviada
   
   
 ## 🎨 Layout do Projeto
